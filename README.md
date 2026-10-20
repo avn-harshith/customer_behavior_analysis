@@ -192,8 +192,8 @@ Open the report in `reports/` and the presentation in `presentation/` to review 
 
 Data Analytics Portfolio Project
 
-- GitHub: `https://github.com/<your-username>`
-- LinkedIn: `<your-linkedin-profile>`
+- GitHub: `https://github.com/avn-harshith`
+- LinkedIn: `Akana VN Harshith`
 
 ---
 
